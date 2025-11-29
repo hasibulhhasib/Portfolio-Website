@@ -1,11 +1,7 @@
-# Keerti Vishwkarma
+# Hasibul Hasib
 Responsive HTML,CSS and Bootstrap Portfolio
 
-# Demo
-- [Preview](https://keerti1924.github.io/Portfolio-Website/)
 
-# Clone Project
-- https://github.com/keerti1924/Portfolio-Website/
 
 # Features
 - Fully Responsive
